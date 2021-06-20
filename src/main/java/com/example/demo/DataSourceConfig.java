@@ -14,6 +14,10 @@ import org.springframework.transaction.PlatformTransactionManager;
 import javax.annotation.Resource;
 import javax.sql.DataSource;
 
+/**
+ * 测试
+ *
+ **/ 
 @Configuration
 public class DataSourceConfig {
 
