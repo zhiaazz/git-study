@@ -16,7 +16,7 @@ import javax.annotation.Resource;
 public class DemoApplication {
 
 //    @Autowired
-//    private DataSource dataSource;test
+//    private DataSource dataSource;test2
 //
 //    @Autowired
 //    private JdbcTemplate jdbcTemplate;
